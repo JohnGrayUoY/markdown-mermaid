@@ -2,8 +2,8 @@
 
 ```mermaid
   graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+      Software-->Engineering;
+      Engineering-->Community;
+      Community-->of;
+      of-->Practice;
 ```
